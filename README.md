@@ -1,1 +1,2 @@
 # odin-recipes
+This project is the end of the html module on "odin project" is meant should signify that i have basic understanding of the command line/terminal as well as using git and github on my local machine. This  website should also show that i havebasic understanding of the html (Hyper text markup language) to be able to create text and images which will later be styles with css (Cascading style sheets) 
